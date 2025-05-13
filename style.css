@@ -30,7 +30,7 @@
 }
 
 body{
-  background-color: lightblue;
+  background-color: green;
   width: var(--page-width);
   height: var(--page-height);
   margin: 0;
